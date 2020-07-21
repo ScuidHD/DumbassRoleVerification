@@ -5,4 +5,4 @@ Yea its just a program I wrote in python. Its a simple calculator that can add, 
 
 Enjoy this piece of garbage
 
-SCUID
+Marmelade
